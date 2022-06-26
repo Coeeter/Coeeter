@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Noorullah Nasrullah and I am from Singapore. I am currently pursuing a diploma in Information Technology at Temasek Polytechnic and I am currently in my second year.<br>
 <!--
 **Coeeter/Coeeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
