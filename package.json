@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
     "fs": "0.0.1-security",
     "markdown-it": "^13.0.1"
   }
