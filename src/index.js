@@ -17,19 +17,12 @@ const fs = require("fs");
         return `<a href="https://github.com/Coeeter/${item.name}"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=${item.name}"/></a>`;
       })
       .join("");
-    const text = `![Header](assets/header.png)
-
-## About Me
-I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Singapore. I am currently pursuing a diploma in Information Technology at Temasek Polytechnic and currently in my second year.
-
-## My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Coeeter&show_icons=true&theme=github_dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coeeter&layout=compact&theme=github_dark&hide_border=true" />
-
-## My recent projects
-${recentProjects}`;
-    fs.writeFile("README.md", text, err => {
-      if (err) console.log(err);
+    fs.readFile("src/assets/template.txt", (err, data) => {
+      if (err) return console.log(err);
+      const text = data.toString() + "\n" + recentProjects;
+      fs.writeFile("README.md", text, err => {
+        if (err) console.log(err);
+      });
     });
   } catch (e) {
     console.log(e);

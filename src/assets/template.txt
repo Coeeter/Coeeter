@@ -1,0 +1,10 @@
+![Header](src/assets/header.png)
+
+## About Me
+I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Singapore. I am currently pursuing a diploma in Information Technology at Temasek Polytechnic and currently in my second year.
+
+## My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Coeeter&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coeeter&layout=compact&theme=github_dark&hide_border=true" />
+
+## My recent projects
