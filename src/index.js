@@ -28,7 +28,7 @@ require("dotenv").config();
           `?username=Coeeter&theme=github_dark&hide_border=true&repo=${item.name}`;
         return (
           `<a href="https://github.com/Coeeter/${item.name}">\n` +
-          `\t<img align="center" src="${statLink}"/>\n` +
+          `  <img align="center" src="${statLink}"/>\n` +
           `</a>\n`
         );
       })
