@@ -21,7 +21,7 @@ jobs:
       - name: Get Repo
         run: |
           curl --request GET \ 
-          --url https://api.github.com/users/Coeeter/repos \ 
+          --url "https://api.github.com/users/Coeeter/repos" \ 
           --header "authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
           -o output.json
       - name: Update README
