@@ -12,7 +12,7 @@ const fs = require("fs");
         return 1;
       })
       .filter(item => item.name !== "Coeeter")
-      .slice(0, 8)
+      .slice(0, 6)
       .map(item => {
         return `<a href="https://github.com/Coeeter/${item.name}"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=${item.name}"/></a>`;
       })
