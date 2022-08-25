@@ -1,0 +1,16 @@
+{
+  "name": "coeeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "0.0.1-security",
+    "markdown-it": "^13.0.1"
+  }
+}
