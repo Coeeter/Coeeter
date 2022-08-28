@@ -33,7 +33,7 @@ require("dotenv").config();
         );
       })
       .join("");
-    fs.readFile("src/assets/template.txt", (err, data) => {
+    fs.readFile("assets/template.txt", (err, data) => {
       if (err) return console.log(err);
       const text = data.toString() + "\n" + recentProjects;
       fs.writeFile("README.md", text, err => {

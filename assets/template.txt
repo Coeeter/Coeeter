@@ -1,4 +1,4 @@
-![Header](src/assets/header.png)
+![Header](assets/header.png)
 
 ## About Me
 I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Singapore. I am currently pursuing a diploma in Information Technology at Temasek Polytechnic and currently in my second year.
