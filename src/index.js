@@ -2,6 +2,8 @@ const axios = require("axios");
 const fs = require("fs");
 require("dotenv").config();
 
+const notToBeShown = ["Coeeter", "kotlin-timeline"];
+
 (async () => {
   try {
     const githubToken = process.env.GITHUB_TOKEN;
@@ -20,7 +22,7 @@ require("dotenv").config();
         if (a["created_at"] > b["created_at"]) return -1;
         return 1;
       })
-      .filter(item => item.name !== "Coeeter")
+      .filter(item => !notToBeShown.includes(item.name))
       .slice(0, 6)
       .map(item => {
         const statLink =
