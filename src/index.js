@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 require("dotenv").config();
 
-const notToBeShown = ["Coeeter", "kotlin-timeline"];
+const notToBeShown = ["Coeeter", "kt-recyclerview-samples"];
 
 (async () => {
   try {
