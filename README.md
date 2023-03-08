@@ -8,6 +8,9 @@ I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Si
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coeeter&layout=compact&theme=github_dark&hide_border=true&count_private=true&hide=html" />
 
 ## My recent projects
+<a href="https://github.com/Coeeter/ts-next-authentication-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-next-authentication-demo"/>
+</a>
 <a href="https://github.com/Coeeter/EmailGPT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=EmailGPT"/>
 </a>
@@ -22,7 +25,4 @@ I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Si
 </a>
 <a href="https://github.com/Coeeter/ts-ezconvertz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-ezconvertz"/>
-</a>
-<a href="https://github.com/Coeeter/kt-android-clicktoeat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=kt-android-clicktoeat"/>
 </a>
