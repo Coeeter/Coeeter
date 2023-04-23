@@ -20,9 +20,9 @@ I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Si
 <a href="https://github.com/Coeeter/kt-android-clicktochat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=kt-android-clicktochat"/>
 </a>
+<a href="https://github.com/Coeeter/py-stroke-prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=py-stroke-prediction"/>
+</a>
 <a href="https://github.com/Coeeter/ktor-clicktochat-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ktor-clicktochat-backend"/>
-</a>
-<a href="https://github.com/Coeeter/dart-flutter-clicktoeat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=dart-flutter-clicktoeat"/>
 </a>
