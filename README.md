@@ -1,13 +1,14 @@
 ![Header](assets/header.png)
 
 ## About Me
-I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Singapore. I am currently pursuing a diploma in Information Technology at Temasek Polytechnic and currently in my second year.
+I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Singapore. I am a year 3 Temasek Polytechnic student pursuing a diploma in Information Technology. I am also currently interning at GovTech as a Software Engineer.
 
 ## My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Coeeter&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coeeter&layout=compact&theme=github_dark&hide_border=true&count_private=true&hide=html" />
 
 ## My recent projects
+
 <a href="https://github.com/Coeeter/kt-spring-eventify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=kt-spring-eventify"/>
 </a>
