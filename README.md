@@ -9,6 +9,9 @@ I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Si
 
 ## My recent projects
 
+<a href="https://github.com/Coeeter/ts-clicktoplay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-clicktoplay"/>
+</a>
 <a href="https://github.com/Coeeter/kt-spring-eventify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=kt-spring-eventify"/>
 </a>
@@ -23,7 +26,4 @@ I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Si
 </a>
 <a href="https://github.com/Coeeter/py-stroke-prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=py-stroke-prediction"/>
-</a>
-<a href="https://github.com/Coeeter/ktor-clicktochat-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ktor-clicktochat-backend"/>
 </a>
