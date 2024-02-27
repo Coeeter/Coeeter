@@ -1,7 +1,7 @@
 ![Header](assets/header.png)
 
 ## About Me
-I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Singapore. I am a year 3 Temasek Polytechnic student pursuing a diploma in Information Technology. I am also currently interning at GovTech as a Software Engineer.
+I am <a href="https://nasnoor.dev">Noorullah Nasrullah</a> and I am from Singapore. I am a year 3 Temasek Polytechnic student pursuing a diploma in Information Technology. I am also currently interning at GovTech as a Software Engineer.
 
 ## My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Coeeter&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -9,6 +9,15 @@ I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Si
 
 ## My recent projects
 
+<a href="https://github.com/Coeeter/ts-aws-serverless-test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-aws-serverless-test"/>
+</a>
+<a href="https://github.com/Coeeter/ts-secret-santa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-secret-santa"/>
+</a>
+<a href="https://github.com/Coeeter/advent-of-code-2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=advent-of-code-2023"/>
+</a>
 <a href="https://github.com/Coeeter/ts-clicktoplay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-clicktoplay"/>
 </a>
@@ -17,13 +26,4 @@ I am <a href="https://nasportfolio.com">Noorullah Nasrullah</a> and I am from Si
 </a>
 <a href="https://github.com/Coeeter/ts-next-authentication-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-next-authentication-demo"/>
-</a>
-<a href="https://github.com/Coeeter/EmailGPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=EmailGPT"/>
-</a>
-<a href="https://github.com/Coeeter/kt-android-clicktochat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=kt-android-clicktochat"/>
-</a>
-<a href="https://github.com/Coeeter/py-stroke-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=py-stroke-prediction"/>
 </a>
