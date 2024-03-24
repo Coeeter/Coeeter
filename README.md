@@ -9,6 +9,9 @@ I am <a href="https://nasnoor.dev">Noorullah Nasrullah</a> and I am from Singapo
 
 ## My recent projects
 
+<a href="https://github.com/Coeeter/voyager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=voyager"/>
+</a>
 <a href="https://github.com/Coeeter/ts-aws-serverless-test">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-aws-serverless-test"/>
 </a>
@@ -23,7 +26,4 @@ I am <a href="https://nasnoor.dev">Noorullah Nasrullah</a> and I am from Singapo
 </a>
 <a href="https://github.com/Coeeter/kt-spring-eventify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=kt-spring-eventify"/>
-</a>
-<a href="https://github.com/Coeeter/ts-next-authentication-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coeeter&theme=github_dark&hide_border=true&repo=ts-next-authentication-demo"/>
 </a>
