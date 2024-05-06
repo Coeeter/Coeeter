@@ -25,9 +25,11 @@ const ResponseSchema = GithubProjectSchema.array();
 export default {
   getRecentProjects: async () => {
     const response = await client.get(
-      '/users/Coeeter/repos?sort=created&per_page=6'
+      '/users/Coeeter/repos?sort=pushed&per_page=7'
     );
 
-    return ResponseSchema.parse(response.data);
+    return ResponseSchema.parse(response.data)
+      .filter(project => project.name !== 'Coeeter')
+      .slice(0, 6);
   },
 };
