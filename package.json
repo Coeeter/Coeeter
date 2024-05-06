@@ -1,13 +1,11 @@
 {
   "name": "coeeter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple CLI tool to generate a README.md file based on my recent projects",
   "main": "src/index.ts",
   "scripts": {
     "start": "ts-node src/index.ts"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
