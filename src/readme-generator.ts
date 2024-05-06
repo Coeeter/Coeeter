@@ -23,7 +23,7 @@ function buildProjectCard(project: GithubProject) {
 }
 
 async function generateReadme(recentProjects: GithubProject[]) {
-  const projectCards = recentProjects.map(buildProjectCard).join('\n\n');
+  const projectCards = recentProjects.map(buildProjectCard).join('\n');
 
   const template = await readFile('assets/template.md', 'utf-8');
 
