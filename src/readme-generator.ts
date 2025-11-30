@@ -1,13 +1,13 @@
-import { readFile, writeFile } from 'fs/promises';
-import { GithubProject } from './api-client';
+import { readFile, writeFile } from "fs/promises";
+import { GithubProject } from "./api-client";
 
 function buildGithubStatsCardUrl(name: string) {
-  const url = new URL('https://github-readme-stats.vercel.app/api/pin');
+  const url = new URL("https://coeeter-stats.vercel.app/api/pin");
 
   const searchParams = new URLSearchParams({
-    username: 'Coeeter',
-    theme: 'github_dark',
-    hide_border: 'true',
+    username: "Coeeter",
+    theme: "github_dark",
+    hide_border: "true",
     repo: name,
   });
 
@@ -23,14 +23,14 @@ function buildProjectCard(project: GithubProject) {
 }
 
 async function generateReadme(recentProjects: GithubProject[]) {
-  const projectCards = recentProjects.map(buildProjectCard).join('\n');
+  const projectCards = recentProjects.map(buildProjectCard).join("\n");
 
-  const template = await readFile('assets/template.md', 'utf-8');
+  const template = await readFile("assets/template.md", "utf-8");
 
   await writeFile(
-    'README.md',
-    template.replace('<!-- PROJECTS -->', projectCards),
-    'utf-8'
+    "README.md",
+    template.replace("<!-- PROJECTS -->", projectCards),
+    "utf-8",
   );
 }
 
