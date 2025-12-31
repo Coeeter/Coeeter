@@ -11,9 +11,9 @@ I am <a href="https://nasnoor.dev">Noorullah Nasrullah</a> and I am from Singapo
 
 ## My recent projects
 
+[![aniways](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=aniways)](https://github.com/Coeeter/aniways)
 [![zap](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=zap)](https://github.com/Coeeter/zap)
 [![drizzle-cuid2](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=drizzle-cuid2)](https://github.com/Coeeter/drizzle-cuid2)
-[![aniways](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=aniways)](https://github.com/Coeeter/aniways)
 [![cmdhelper](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=cmdhelper)](https://github.com/Coeeter/cmdhelper)
 [![animelist](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=animelist)](https://github.com/Coeeter/animelist)
 [![learn-expo](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=learn-expo)](https://github.com/Coeeter/learn-expo)
