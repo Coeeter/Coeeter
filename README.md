@@ -11,8 +11,8 @@ I am <a href="https://nasnoor.dev">Noorullah Nasrullah</a> and I am from Singapo
 
 ## My recent projects
 
-[![fe](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=fe)](https://github.com/Coeeter/fe)
 [![aniways](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=aniways)](https://github.com/Coeeter/aniways)
+[![fe](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=fe)](https://github.com/Coeeter/fe)
 [![ntmux](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=ntmux)](https://github.com/Coeeter/ntmux)
 [![zap](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=zap)](https://github.com/Coeeter/zap)
 [![drizzle-cuid2](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=drizzle-cuid2)](https://github.com/Coeeter/drizzle-cuid2)
