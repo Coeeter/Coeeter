@@ -11,9 +11,9 @@ I am <a href="https://nasnoor.dev">Noorullah Nasrullah</a> and I am from Singapo
 
 ## My recent projects
 
+[![cmdhelper](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=cmdhelper)](https://github.com/Coeeter/cmdhelper)
+[![zap](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=zap)](https://github.com/Coeeter/zap)
+[![ntmux](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=ntmux)](https://github.com/Coeeter/ntmux)
 [![animekaiser](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=animekaiser)](https://github.com/Coeeter/animekaiser)
 [![aniways](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=aniways)](https://github.com/Coeeter/aniways)
 [![skills](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=skills)](https://github.com/Coeeter/skills)
-[![raycast-ai-usage](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=raycast-ai-usage)](https://github.com/Coeeter/raycast-ai-usage)
-[![cmdhelper](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=cmdhelper)](https://github.com/Coeeter/cmdhelper)
-[![fe](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=fe)](https://github.com/Coeeter/fe)
