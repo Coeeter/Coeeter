@@ -1,19 +1,12 @@
-![Header](assets/header.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coeeter/Coeeter/master/assets/header-dark.png">
+  <img alt="Noorullah Nasrullah — software engineer, Singapore" src="https://raw.githubusercontent.com/Coeeter/Coeeter/master/assets/header-light.png" width="760">
+</picture>
 
-## About Me
+I study computer science at NUS. Before that I spent fourteen months at GovTech
+Singapore. Almost everything here started as a problem I kept running into, and
+stayed built because it turned out other people had it too.
 
-I am <a href="https://nasnoor.dev">Noorullah Nasrullah</a> and I am from Singapore. I am a software engineer with a passion for ~~breaking~~ building things. I love learning new technologies and always looking for new opportunities to grow.
-
-## My Github Stats
-
-<img src="https://coeeter-stats.vercel.app/api?username=Coeeter&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img src="https://coeeter-stats.vercel.app/api/top-langs/?username=Coeeter&layout=compact&theme=github_dark&hide_border=true&count_private=true&hide=html" />
-
-## My recent projects
-
-[![animekaiser](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=animekaiser)](https://github.com/Coeeter/animekaiser)
-[![cmdhelper](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=cmdhelper)](https://github.com/Coeeter/cmdhelper)
-[![zap](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=zap)](https://github.com/Coeeter/zap)
-[![ntmux](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=ntmux)](https://github.com/Coeeter/ntmux)
-[![aniways](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=aniways)](https://github.com/Coeeter/aniways)
-[![skills](https://coeeter-stats.vercel.app/api/pin?username=Coeeter&theme=github_dark&hide_border=true&repo=skills)](https://github.com/Coeeter/skills)
+[nasnoor.dev](https://nasnoor.dev) ·
+[LinkedIn](https://www.linkedin.com/in/noorullah-nasrullah/) ·
+[nasrullah01n@gmail.com](mailto:nasrullah01n@gmail.com)
