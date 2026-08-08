@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coeeter/Coeeter/master/assets/header-dark.png">
-  <img alt="Noorullah Nasrullah — software engineer, Singapore" src="https://raw.githubusercontent.com/Coeeter/Coeeter/master/assets/header-light.png" width="760">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coeeter/Coeeter/master/assets/header-dark.svg">
+  <img alt="Noorullah Nasrullah — software engineer, Singapore" src="https://raw.githubusercontent.com/Coeeter/Coeeter/master/assets/header-light.svg" width="760">
 </picture>
 
 I study computer science at NUS. Before that I spent fourteen months at GovTech
